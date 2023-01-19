@@ -81,6 +81,7 @@ main {
 
 #botao2:hover {
     color: rgb(0, 15, 146);
+    transition: 0.8s;
 }
 
 #botao2:link {
