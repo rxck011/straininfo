@@ -72,11 +72,9 @@ main {
 }
 
 #botao2 {
-    colo: rgb(255, 151, 241);
     font-size: 25px;
-    margin-left: 160px;
+    margin-left: 167px;
     text-decoration: none;
-    
 }
 
 #botao2:hover {
