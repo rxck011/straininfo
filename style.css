@@ -39,11 +39,19 @@ main {
     font-family: 'Press Start 2P', monospace;
 }
 
-#botao1 {
-    colo: rgb(255, 151, 241);
+nav a {
+    width: 100%;
+    margin: auto;
+    min-width: 300px;
+    max-width: 1000px;
+    text-align: center;
 
-    font-size: 25px;
+}
+
+
+#botao1 {
     text-decoration: none;
+    font-size: clamp(1em, 1em + 1vw, 1.5em)
     
 }
 
@@ -72,9 +80,8 @@ main {
 }
 
 #botao2 {
-    font-size: 25px;
-    margin-left: 160px;
     text-decoration: none;
+    font-size: clamp(1em, 1em + 1vw, 1.5em)
 }
 
 #botao2:hover {
@@ -102,9 +109,8 @@ main {
 
 
 #botao3 {
-    font-size: 25px;
-    margin-left: 167px;
     text-decoration: none;
+    font-size: clamp(1em, 1em + 1vw, 1.5em)
 }
 
 #botao3:hover {
@@ -131,8 +137,17 @@ main {
 }
 
 nav {
-    
-    margin-left: 500px;
+    display: block;
+    margin: auto;
+    min-width: 300px;
+    max-width: 1000px;
+}
+
+#menuprincipal {
+    columns: 3;
+    text-align: center;
+    min-width: 300px;
+    max-width: 1000px;
 }
 
 .dxartransp1 {
