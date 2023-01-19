@@ -58,6 +58,8 @@ main {
 
 #botao1:link:hover {
     color: rgb(156, 49, 0);
+    transition: 0.8s;
+
 }
 
 #botao1:visited {
@@ -87,6 +89,7 @@ main {
 
 #botao2:link:hover {
     color: rgb(0, 15, 146);
+    transition: 0.8s;
 }
 
 #botao2:visited {
@@ -116,6 +119,7 @@ main {
 
 #botao3:link:hover {
     color: rgb(0, 217, 255);
+    transition: 0.8s;
 }
 
 #botao3:visited {
