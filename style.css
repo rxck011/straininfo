@@ -51,7 +51,7 @@ nav a {
 
 #botao1 {
     text-decoration: none;
-    font-size: 1vw
+    font-size: min(30px, 3vw)
     
 }
 
@@ -81,7 +81,7 @@ nav a {
 
 #botao2 {
     text-decoration: none;
-    font-size: 1vw
+    font-size: min(25px, 3vw)
 }
 
 #botao2:hover {
@@ -110,7 +110,7 @@ nav a {
 
 #botao3 {
     text-decoration: none;
-    font-size: 1vw
+    font-size: min(25px, 3vw)
 }
 
 #botao3:hover {
