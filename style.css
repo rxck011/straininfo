@@ -233,12 +233,17 @@ article > a:visited {
 
 
 #bsflogo2pag {
-    margin-left: 20px;
+    margin: auto;
     margin-bottom: 8px;
 }
 
 #dutchlogo2pag {
-    margin-left: 20px;
+    margin: auto;
+    margin-bottom: 8px;
+}
+
+#bnsfarm2pag {
+    margin: auto;
     margin-bottom: 8px;
 }
 
