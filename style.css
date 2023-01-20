@@ -51,7 +51,7 @@ nav a {
 
 #botao1 {
     text-decoration: none;
-    font-size: clamp(0.8em, 1em + 1vw, 1.5em)
+    font-size: 1vw
     
 }
 
@@ -81,7 +81,7 @@ nav a {
 
 #botao2 {
     text-decoration: none;
-    font-size: clamp(0.8em, 1em + 1vw, 1.5em)
+    font-size: 1vw
 }
 
 #botao2:hover {
@@ -110,7 +110,7 @@ nav a {
 
 #botao3 {
     text-decoration: none;
-    font-size: clamp(0.8em, 1em + 1vw, 1.5em)
+    font-size: 1vw
 }
 
 #botao3:hover {
@@ -212,14 +212,19 @@ article > a:visited {
 
 #bsfbox {
     background-color: #00000000;
-    margin-left: 780px;
     margin-top: 30px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 #dutchbox {
     background-color: #00000000;
     margin-top: 25px;
-    margin-left: 780px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
 .widthlogo {
@@ -238,16 +243,21 @@ article > a:visited {
 }
 
 #sativalogo {
-    margin-left: 700px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
 #indicalogo {
-    margin-left: 700px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
 #hibridalogo {
-    margin-left: 700px;
-    h: 10px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
 .listaindica {
@@ -293,6 +303,8 @@ article > a:visited {
 #bnsfarmbox {
     background-color: #00000000;
     margin-top: 25px;
-    margin-left: 780px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 
