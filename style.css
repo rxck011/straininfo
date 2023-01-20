@@ -51,7 +51,7 @@ nav a {
 
 #botao1 {
     text-decoration: none;
-    font-size: clamp(1em, 1em + 1vw, 1.5em)
+    font-size: clamp(0.8em, 1em + 1vw, 1.5em)
     
 }
 
@@ -81,7 +81,7 @@ nav a {
 
 #botao2 {
     text-decoration: none;
-    font-size: clamp(1em, 1em + 1vw, 1.5em)
+    font-size: clamp(0.8em, 1em + 1vw, 1.5em)
 }
 
 #botao2:hover {
@@ -110,7 +110,7 @@ nav a {
 
 #botao3 {
     text-decoration: none;
-    font-size: clamp(1em, 1em + 1vw, 1.5em)
+    font-size: clamp(0.8em, 1em + 1vw, 1.5em)
 }
 
 #botao3:hover {
