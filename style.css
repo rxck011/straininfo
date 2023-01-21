@@ -145,6 +145,7 @@ nav {
 
 #menuprincipal {
     columns: 3;
+    list-style-type: none;
     text-align: center;
     min-width: 300px;
     max-width: 1000px;
