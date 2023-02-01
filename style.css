@@ -315,3 +315,7 @@ article > a:visited {
     align-items: center;
 }
 
+body.info {
+    background-image: linear-gradient(to top, rgb(0, 145, 150), rgb(0, 133, 82), rgb(0, 0, 0));
+   background-attachment: fixed;
+}
